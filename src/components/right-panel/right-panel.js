@@ -18,7 +18,7 @@ export const AppRightPanel = () => {
                             <span className="route-code">DL-BQ-1234</span>
                         </div>
                         <div className="facilities">
-                            <span className="trans-dep">Rajashtan Roadways</span>
+                            <span className="trans-dep">Rajasthan Road Ways</span>
                         </div>
                         
                         </div>
