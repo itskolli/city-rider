@@ -5,6 +5,9 @@
     align-items: center;
     padding: 10px;
 }
+.panel-heading  h2{
+    position: relative;
+}
 .panel-heading  h2:after {
     content: "";
     width: 45px;
